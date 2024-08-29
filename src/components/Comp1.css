@@ -1,0 +1,5 @@
+.my-button{
+    -webkit-box-shadow: 10px 10px 31px 3px rgba(0,0,0,0.45);
+-moz-box-shadow: 10px 10px 31px 3px rgba(0,0,0,0.45);
+box-shadow: 10px 10px 31px 3px rgba(0,0,0,0.45);
+}
